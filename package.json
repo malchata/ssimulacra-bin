@@ -1,0 +1,24 @@
+{
+  "name": "ssimulacra-bin",
+  "version": "1.0.0",
+  "description": "ssimulacra bin-wrapper that makes it seamlessly available as a local dependency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ssimulacra",
+    "image",
+    "similarity",
+    "dissimilarity",
+    "cloudinary",
+    "comparison",
+    "quality"
+  ],
+  "author": "Jeremy L. Wagner <jeremy.l.wagner@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bin-build": "^3.0.0",
+    "bin-wrapper": "^4.1.0"
+  }
+}
