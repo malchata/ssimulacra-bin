@@ -22,6 +22,7 @@
   "dependencies": {
     "bin-build": "^3.0.0",
     "bin-wrapper": "^4.1.0",
+    "link": "^0.1.5",
     "logalot": "^2.1.0"
   },
   "bin": {
